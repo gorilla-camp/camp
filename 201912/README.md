@@ -4,6 +4,7 @@ Gopherたちを集めて合宿しました。
 
 ## メンバー
 - [ゴリラ](https://twitter.com/gorilla0513)
+- [hgsgtk](https://twitter.com/hgsgtk)
 
 ## 場所
 - 京王線仙川駅の最大11名滞在可能､140平米新築一軒家
@@ -11,6 +12,7 @@ https://www.airbnb.jp/rooms/27990973?s=67&shared_item_type=1&virality_entry_poin
 
 ## 感想
 - [ゴリラ](README_gorilla.md)
+- [hgsgtk](README_hgsgtk.md)
 
 ## スケジュール
 ### 2019/12/07
