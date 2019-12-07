@@ -13,6 +13,7 @@ Gopherたちを集めて合宿しました。
 ## 感想
 - [ゴリラ](README_gorilla.md)
 - [hgsgtk](README_hgsgtk.md)
+- [もひりんご](README_mohiringo.md))
 
 ## スケジュール
 ### 2019/12/07
