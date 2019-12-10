@@ -7,6 +7,7 @@ Gopherたちを集めて合宿しました。
 - [hgsgtk](https://twitter.com/hgsgtk)
 - [daisuzu](https://twitter.com/dice_zu)
 - [もひりんご](https://twitter.com/ohitoyoshi_lab)
+- [po3rin](https://twitter.com/po3rin)
 
 ## 場所
 [京王線仙川駅の最大11名滞在可能､140平米新築一軒家](https://www.airbnb.jp/rooms/27990973?s=67&shared_item_type=1&virality_entry_point=1&sharer_id=308840050)
@@ -16,6 +17,7 @@ Gopherたちを集めて合宿しました。
 - [hgsgtk](README_hgsgtk.md)
 - [もひりんご](README_mohiringo.md)
 - [daisuzu](README_daisuzu.md)
+- [po3rin](README_po3rin.md)
 
 ## スケジュール
 ### 2019/12/07
