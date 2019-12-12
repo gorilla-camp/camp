@@ -18,7 +18,7 @@ rolling hash を使った Bloom filter のGo実装
 https://github.com/po3rin/go_playground/tree/master/bloomfilter
 
 Goによる Rabin-karp アルゴリズムの実装の解説記事
-<近日公開>
+https://qiita.com/po3rin/items/07d51249629390a6201a
 
 ## 言語化したレビュー
 
